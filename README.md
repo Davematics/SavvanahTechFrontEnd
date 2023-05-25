@@ -6,5 +6,5 @@
 2. Run `npm install` to install dependencies
 3. Run `npm run dev` to start development server
 4. Go to http://localhost:3000
-# NourishingAfricaFrontEnd
-# SavvanahTechFrontEnd
+# savannahtechapp
+# savannahtechapp
